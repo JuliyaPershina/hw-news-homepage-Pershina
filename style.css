@@ -53,12 +53,15 @@ a h3 {
 }
 .wrapper {
   max-width: 1190px;
+  /* background-color: #e9aa52; */
+  /* width: calc(100vh/0.72); */
   padding-inline: 40px;
-  height: 100vh;
+  min-height: 100vh;
   display: grid;
   grid-template-columns: repeat(3, 31.5%);
   column-gap: 2.75%;
-  grid-template-rows: 18% 50% 32%;
+  /* grid-template-rows: 18% 50% 32%; */
+  grid-template-rows: 184px 510px 330px;
   margin-inline: auto;
 }
 

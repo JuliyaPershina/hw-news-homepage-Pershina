@@ -63,7 +63,7 @@
         top: 58px;
         left: -1100px;
         width: 600px;
-        height: 669px;
+        height: 580px;
         background-color: #fffdfa;
         flex-direction: column;
         justify-content: flex-start;
@@ -90,7 +90,7 @@
         background-color: var(--dark-space-blue);
         opacity: 0.5;
         width: 500px;
-        height: 669px;
+        height: 580px;
       }
       .menu-btn {
         display: block;
